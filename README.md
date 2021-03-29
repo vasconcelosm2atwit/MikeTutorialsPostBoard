@@ -5,3 +5,5 @@
 #lastest Updated picture
 
 <img src="tutorialsPic.png" />
+
+Next Goals is to constinously work on the website design and back end.
